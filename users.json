@@ -5,6 +5,16 @@
     "grade": 11
   },
   {
+    "login": "login1",
+    "password": "login1",
+    "grade": 7
+  },
+  {
+    "login": "login2",
+    "password": "login2",
+    "grade": 8
+  },
+  {
     "login": "login",
     "password": "password",
     "grade": 9
