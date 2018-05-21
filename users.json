@@ -1,0 +1,17 @@
+[
+  {
+    "login": "admin",
+    "password": "admin",
+    "grade": 11
+  },
+  {
+    "login": "login",
+    "password": "password",
+    "grade": 9
+  },
+  {
+    "login": "zxc098",
+    "password": "qwerty123",
+    "grade": 6
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "text": "ViewPager позволяет нам организовать удобный и красивый просмотр данных с возможностью перелистывания влево-вправо. Сам ViewPager отвечает за показ и прокрутку. Но ему нужен еще PagerAdapter, который отвечает за предоставление данных."
+  },
+  {
+    "text": "PagerAdapter – это базовый абстрактный класс, для которого разработчик дописывает реализацию так, как ему надо. Существует распространенная стандартная (частичная) реализация PagerAdapter, которая работает с фрагментами – это FragmentPagerAdapter. Разработчику остается только создать фрагмент и определить кол-во страниц."
+  },
+  {
+    "text": "Напишем простой пример и рассмотрим основные возможности ViewPager и FragmentPagerAdapter."
+  },
+  {
+    "text": "Создадим проект:"
+  },
+  {
+    "text": "Project name: P1251_ViewPager\nBuild Target: Android 2.3.3\nApplication name: ViewPager\nPackage name: ru.startandroid.develop.p1251viewpager\nCreate Activity: MainActivity"
+  },
+  {
+    "text": "..."
+  },
+]

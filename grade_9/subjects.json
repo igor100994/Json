@@ -1,0 +1,57 @@
+[
+  {
+    "id": "inf",
+    "name": "Информатика",
+    "ico": "https://ru.seaicons.com/wp-content/uploads/2016/10/Hardware-My-Computer-2-icon.png"
+  },
+  {
+    "id": "rus",
+    "name": "Русский язык",
+    "ico": ""
+  },
+  {
+    "id": "eng",
+    "name": "Английский язык",
+    "ico": ""
+  },
+  {
+    "id": "social",
+    "name": "Обществознание",
+    "ico": ""
+  },
+  {
+    "id": "alg",
+    "name": "Алгебра",
+    "ico": ""
+  },
+  {
+    "id": "geom",
+    "name": "Геометрия",
+    "ico": ""
+  },
+  {
+    "id": "hist",
+    "name": "История",
+    "ico": ""
+  },
+  {
+    "id": "",
+    "name": "Химия",
+    "ico": ""
+  },
+  {
+    "id": "phys",
+    "name": "Физика",
+    "ico": ""
+  },
+  {
+    "id": "biology",
+    "name": "Биология",
+    "ico": ""
+  },
+  {
+    "id": "geogr",
+    "name": "География",
+    "ico": ""
+  }
+]
