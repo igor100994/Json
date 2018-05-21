@@ -1,0 +1,72 @@
+[
+  {
+    "id": "inf",
+    "name": "Информатика",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1P0tTO-vFlcgZcpWPjxEI0Z8fDSbGVof8"
+  },
+  {
+    "id": "rus",
+    "name": "Русский язык",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1hybKIYVwITGiEfdY2V6iXukN7sMDrZWo"
+  },
+  {
+    "id": "lyter",
+    "name": "Литература",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=12KXAafToVLky7h05YqgH8Kx0rM70PJtT"
+  },
+  {
+    "id": "eng",
+    "name": "Английский язык",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1vhBAqALVedeZmI51u1fkLO1c6tKln8Vz"
+  },
+  {
+    "id": "social",
+    "name": "Обществознание",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13lqxTOGAf23uG5cYR3yasc1JocmzF9Nc"
+  },
+  {
+    "id": "alg",
+    "name": "Алгебра",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1m6RHpZFL16LZ-pr7e_4Sqkuvtw6N8ydd"
+  },
+  {
+    "id": "geom",
+    "name": "Геометрия",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1Safcr_LAsLBxQFn2tFLREbLzR-KUQdgz"
+  },
+  {
+    "id": "hist",
+    "name": "История",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1YLpiXPOcabUp3f4skgkIUHoPfkoW5HJh"
+  },
+  {
+    "id": "",
+    "name": "Химия",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1op0WkHoxzjTxB5REmJ1j_5C_ptyRNG0v"
+  },
+  {
+    "id": "phys",
+    "name": "Физика",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1imRQg0svyg5GEeJgWLnwsYqNxCFCNfxg"
+  },
+  {
+    "id": "biology",
+    "name": "Биология",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=16qpfpdmgPPxIp6FleXotn9cBRd1uhMci"
+  },
+  {
+    "id": "geogr",
+    "name": "География",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1ir2GbiCq2X-HZdLj64ppS9aEdov2nxLR"
+  },
+  {
+    "id": "fzk",
+    "name": "Физкультура",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13A7gM7OBJsGYzJvgmn44qV5pZaVVuDqQ"
+  },
+  {
+    "id": "obg",
+    "name": "ОБЖ",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1XLMk7aQ0isb_pa6IjT0xptq83o4v9gbr"
+  }
+]
