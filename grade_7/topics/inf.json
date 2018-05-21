@@ -1,1 +1,22 @@
-
+[
+  {
+    "id": "id0",
+    "title": "Программное обеспечение компьютера",
+    "description": "В этом уроке разбираемся с ViewPager"
+  },
+  {
+    "id": "id1",
+    "title": "Операционные системы",
+    "description": "Description 1"
+  },
+  {
+    "id": "id2",
+    "title": "Title 2",
+    "description": "Description 2"
+  },
+  {
+    "id": "id3",
+    "title": "Title 3",
+    "description": "Description 3"
+  }
+]
