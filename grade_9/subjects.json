@@ -10,6 +10,11 @@
     "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1hybKIYVwITGiEfdY2V6iXukN7sMDrZWo"
   },
   {
+    "id": "lyter",
+    "name": "Литература",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=12KXAafToVLky7h05YqgH8Kx0rM70PJtT"
+  }
+  {
     "id": "eng",
     "name": "Английский язык",
     "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1vhBAqALVedeZmI51u1fkLO1c6tKln8Vz"
@@ -53,5 +58,15 @@
     "id": "geogr",
     "name": "География",
     "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1ir2GbiCq2X-HZdLj64ppS9aEdov2nxLR"
+  },
+  {
+    "id": "fzk",
+    "name": "Физкультура",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13A7gM7OBJsGYzJvgmn44qV5pZaVVuDqQ"
+  },
+  {
+    "id": "obg",
+    "name": "ОБЖ",
+    "ico": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1XLMk7aQ0isb_pa6IjT0xptq83o4v9gbr"
   }
 ]
