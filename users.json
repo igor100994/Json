@@ -13,5 +13,10 @@
     "login": "zxc098",
     "password": "qwerty123",
     "grade": 6
+  },
+  {
+    "login": "login1",
+    "password": "password1",
+    "grade": 7
   }
 ]
